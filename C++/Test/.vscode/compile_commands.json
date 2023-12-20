@@ -1,0 +1,6 @@
+[
+{
+  "directory": "d:\\C++\\Test",
+  "arguments": ["cl.exe", "/c", "/nologo", "/m64", "/EHsc", "/Fobuild\\.objs\\Test\\windows\\x64\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+}]
