@@ -1,0 +1,4 @@
+D:/Programming_learning/Qt/test/cmake-build-debug/CMakeFiles/test.dir
+D:/Programming_learning/Qt/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming_learning/Qt/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Programming_learning/Qt/test/cmake-build-debug/CMakeFiles/test_autogen.dir
