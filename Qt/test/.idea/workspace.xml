@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="test" targetName="test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df11d8f7-0bd7-450a-bfed-f04d2c3bff57" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/test_autogen/mocs_compilation.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_autogen.dir/AutogenUsed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_autogen.dir/ParseCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Qt6Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Qt6Gui.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Qt6Widgets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/plugins/platforms/qwindows.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/test_autogen/deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/test_autogen/moc_predefs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/test_autogen/mocs_compilation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/test_autogen/timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/.fingerprint/autocfg-abcf4bc874997ccd/dep-lib-autocfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/.fingerprint/autocfg-abcf4bc874997ccd/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/.fingerprint/autocfg-abcf4bc874997ccd/lib-autocfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/.fingerprint/autocfg-abcf4bc874997ccd/lib-autocfg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/.fingerprint/num-bigint-4108f803257e2af6/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/.fingerprint/num-rational-26c94c9621ec1a2b/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/.fingerprint/num-traits-03f7663b33d486ea/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-bigint-f4ea58cdbfbe28d2/out/probe0.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-bigint-f4ea58cdbfbe28d2/out/probe1.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-bigint-f4ea58cdbfbe28d2/out/probe2.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-bigint-f4ea58cdbfbe28d2/out/probe3.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-bigint-f4ea58cdbfbe28d2/out/radix_bases.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-rational-0b767800a782be1a/out/probe0.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-rational-0b767800a782be1a/out/probe1.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-traits-8181daadbac81f20/out/probe0.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-traits-8181daadbac81f20/out/probe1.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-traits-8181daadbac81f20/out/probe2.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-traits-8181daadbac81f20/out/probe3.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-traits-8181daadbac81f20/out/probe4.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-traits-8181daadbac81f20/out/probe5.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-traits-8181daadbac81f20/out/probe6.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-traits-8181daadbac81f20/out/probe7.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-traits-8181daadbac81f20/out/probe8.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/build/num-traits-8181daadbac81f20/out/probe9.ll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/deps/autocfg-abcf4bc874997ccd.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/deps/libautocfg-abcf4bc874997ccd.rlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rust/num/target/debug/deps/libautocfg-abcf4bc874997ccd.rmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_autogen.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_autogen.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_autogen.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_autogen.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_autogen.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_autogen.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/.idea/rust.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rust/.idea/rust.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../../rust/hello-rust/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../rust/hello-rust/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/deps/hello_rust.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/deps/hello_rust.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/deps/hello_rust.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/deps/hello_rust.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/hello-rust.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/hello-rust.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/hello_rust.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/hello_rust.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/126dv4m00gk6u2im.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/1crka22dgpkfiph1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/1fwkpy2somzptxgj.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/1hm2y56j4pz0d1oh.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/1ia8he7j2ck5taxj.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/1ivt0bhzy38ociju.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/1kaepryeb6z2fup4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/1kk3r50fufoip9nl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/1kre3oxdx8fkgmjt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/1ncnbajqi5ystnya.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/1pnl7hd0uo3im2y.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/1tehv3pp6qwl3pgw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/1tnmby2mykguq2jw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/1ubkqybwtsgeefmu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/244qr491jrd7nhb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/24x3isr4o7761jkw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/269zdhwej0zr6qpn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/29111ksv16qs4uii.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/29h6v0ynlgh68o8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/2d47j0q1rnl8h3tz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/2e29gzr0kioynsfz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/2l8q7qk7zw8rpd6d.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/2ld6i7dfbln9gljl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/2mvpgasxtxmno385.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/2mxa8500p3h08gwg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/2owaw0x0o9j1919d.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/2sij7o4mhyk9tn9e.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/2vbh4hss9p70c787.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/2xf83rc0mlj8cg0g.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/332offq749s95hp7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/3593rv4kuq4mmwrz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/37zblfqqdpizccym.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/3bn0pir2w948eycw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/3d165c3pibzcz1iv.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/3fwsk9q9wf89rgzt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/3gugnduntmu7ab4e.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/3ig51kodqxn69yqd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/3m6egslzlzpcuni7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/3mnsjh2ndir8p707.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/3rj3mnf3hg5lf0ne.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/44ii9vxwx6u4p139.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/44k509t3vvwzuhkk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/45rz4mj5rmt7bs72.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/46wjjhh48rvvko3n.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/49tcm0m5ws1w3otk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/4bjgpfx39qgfrlex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/4fkay013gf8oi9am.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/4ke110u8kc99slx1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/4mz5876rzrg7uy9q.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/4qsiy18rgefmu26e.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/4tt5eqghd0tqpwuh.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/4uj2ht5zft6286pu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/4v02icwg8jpda8up.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/4y8cse1onrdxjs66.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/50rlki1lu3upwioc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/54f054k95fuy9rv0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/551ny4yon2nm3ltx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/556oj4hcjpt8gnga.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/58ywbaaa00rywwbu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/5d32i4gtd23d28qr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/5d8u4h709mmzqod0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/7yyrm1z7zq5ghvx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/8dpfb4lxwgw971n.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/g5e45wj73zz446t.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/lqqhn9y5rh49kqa.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/qie8plq2poftc9i.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/r98og3iirwwfkvl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/s71sqdujpks1hih.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/uxfggl8jb5nuoco.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww-6am4yk3ke023nn0f4rm0hfzwf/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/hello-rust/target/debug/incremental/hello_rust-1on7ln7sc7ory/s-gt03e3x3te-2ilpww.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../../rust/variables/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../rust/variables/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/deps/variables.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../rust/variables/target/debug/deps/variables.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/deps/variables.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../rust/variables/target/debug/deps/variables.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/incremental/variables-ggioxrzvhxvr/s-gt7vqu7p0b-eh74z-f4hnmpg9r24afgg0868nn0a11/14wew7paef6t7wci.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/incremental/variables-ggioxrzvhxvr/s-gt7vqu7p0b-eh74z-f4hnmpg9r24afgg0868nn0a11/1j3u11y0v5wwcn8m.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/incremental/variables-ggioxrzvhxvr/s-gt7vqu7p0b-eh74z-f4hnmpg9r24afgg0868nn0a11/1qctngsw8qmuuj39.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/incremental/variables-ggioxrzvhxvr/s-gt7vqu7p0b-eh74z-f4hnmpg9r24afgg0868nn0a11/1vk2xx3e2h65m0f7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/incremental/variables-ggioxrzvhxvr/s-gt7vqu7p0b-eh74z-f4hnmpg9r24afgg0868nn0a11/1w8mat1tq240mb4x.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/incremental/variables-ggioxrzvhxvr/s-gt7vqu7p0b-eh74z-f4hnmpg9r24afgg0868nn0a11/1x10qbifgwjdo96x.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/incremental/variables-ggioxrzvhxvr/s-gt7vqu7p0b-eh74z-f4hnmpg9r24afgg0868nn0a11/3rxrukz0wrvbh8t0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/incremental/variables-ggioxrzvhxvr/s-gt7vqu7p0b-eh74z-f4hnmpg9r24afgg0868nn0a11/59i3zjk3uhw3jwzp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/incremental/variables-ggioxrzvhxvr/s-gt7vqu7p0b-eh74z-f4hnmpg9r24afgg0868nn0a11/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/incremental/variables-ggioxrzvhxvr/s-gt7vqu7p0b-eh74z-f4hnmpg9r24afgg0868nn0a11/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/incremental/variables-ggioxrzvhxvr/s-gt7vqu7p0b-eh74z-f4hnmpg9r24afgg0868nn0a11/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/incremental/variables-ggioxrzvhxvr/s-gt7vqu7p0b-eh74z.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/variables.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../rust/variables/target/debug/variables.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rust/variables/target/debug/variables.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../rust/variables/target/debug/variables.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="6xqgwh4d" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2exHPX0utu4UJJ6qWNx201VEk2q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake 应用程序.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/LLM/llm.c-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="test" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="test" RUN_TARGET_NAME="test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="df11d8f7-0bd7-450a-bfed-f04d2c3bff57" name="更改" comment="" />
+      <created>1710512043856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710512043856</updated>
+      <workItem from="1710512046174" duration="3035000" />
+      <workItem from="1712839293226" duration="1285000" />
+      <workItem from="1713063677250" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
