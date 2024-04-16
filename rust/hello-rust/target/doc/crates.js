@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["ferris_says","hello_rust","smallvec","smawk","textwrap","unicode_width"];

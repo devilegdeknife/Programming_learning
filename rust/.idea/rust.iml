@@ -5,9 +5,13 @@
       <sourceFolder url="file://$MODULE_DIR$/hello-rust/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/num/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithm/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/minigrep/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/hello-rust/target" />
       <excludeFolder url="file://$MODULE_DIR$/num/target" />
       <excludeFolder url="file://$MODULE_DIR$/variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/algorithm/target" />
+      <excludeFolder url="file://$MODULE_DIR$/minigrep/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
