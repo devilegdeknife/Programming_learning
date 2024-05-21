@@ -7,11 +7,19 @@
       <sourceFolder url="file://$MODULE_DIR$/variables/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/algorithm/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/minigrep/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lists/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/src/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/hello-rust/target" />
       <excludeFolder url="file://$MODULE_DIR$/num/target" />
       <excludeFolder url="file://$MODULE_DIR$/variables/target" />
       <excludeFolder url="file://$MODULE_DIR$/algorithm/target" />
       <excludeFolder url="file://$MODULE_DIR$/minigrep/target" />
+      <excludeFolder url="file://$MODULE_DIR$/lists/target" />
+      <excludeFolder url="file://$MODULE_DIR$/algorithms/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

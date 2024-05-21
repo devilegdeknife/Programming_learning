@@ -1,0 +1,1 @@
+D:\Programming_learning\rust\algorithms\target\debug\algorithms.exe: D:\Programming_learning\rust\algorithms\src\collatz_length.rs D:\Programming_learning\rust\algorithms\src\main.rs D:\Programming_learning\rust\algorithms\src\merge_two_lists.rs
